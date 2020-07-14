@@ -4,10 +4,11 @@
 [![Facebook][facebook-brand]][facebook-profile-url]
 [![Instagram][instagram-brand]][instagram-profile-url]
 
+> "Divide each difficulty into as many parts as is feasible and necessary to resolve it."
 
+– René Descartes
 
-
-
+Welcome to my profile, I hope you find it interesting.
 
 <!-- REFERENCE LINKS -->
 <!-- LinkedIn -->
