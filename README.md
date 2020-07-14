@@ -1,6 +1,7 @@
 # LEANDRO FAHUR :man_student:
 [![LinkedIn][linkedin-brand]][linkedin-profile-url]
 [![Instagram][instagram-brand]][instagram-profile-url]
+[![Facebook][facebook-brand]][facebook-profile-url]
 
 
 
