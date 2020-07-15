@@ -8,7 +8,18 @@
 
 – René Descartes
 
-Welcome to my profile, I hope you find it interesting.
+Welcome to my profile, It is a pleasure to have you here.
+
+:small_blue_diamond: Roboticist :robot::heart:
+
+:small_blue_diamond: I love to solve problems and learn new skills 🤔💡
+
+:small_blue_diamond: On my way to be a MEAN stack developer :computer:
+
+:small_blue_diamond: Living in Canada 🇧🇷 -> 🇨🇦
+
+:small_blue_diamond: Cleaned my repository recently :recycle:
+
 
 <!-- REFERENCE LINKS -->
 <!-- LinkedIn -->
