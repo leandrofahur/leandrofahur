@@ -14,7 +14,7 @@ Welcome to my profile, It is a pleasure to have you here.
 
 :small_blue_diamond: I love to solve problems and learn new skills 🤔💡
 
-:small_blue_diamond: On my way to be a MEAN stack developer :computer:
+:small_blue_diamond: On my way to be a fullstack developer :computer:
 
 :small_blue_diamond: Living in Canada 🇧🇷 -> 🇨🇦
 
