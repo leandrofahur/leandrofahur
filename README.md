@@ -16,7 +16,7 @@ Welcome to my profile, It is a pleasure to have you here.
 
 :small_blue_diamond: On my way to be a fullstack developer :computer:
 
-:small_blue_diamond: Living in Canada 🇧🇷 -> 🇨🇦
+:small_blue_diamond: In Canada 🇧🇷 -> 🇨🇦
 
 :small_blue_diamond: Cleaned my repository recently :recycle:
 
