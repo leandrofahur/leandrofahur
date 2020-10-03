@@ -14,7 +14,7 @@ Welcome to my profile, It is a pleasure to have you here.
 
 :small_blue_diamond: I love to solve problems and learn new skills 🤔💡
 
-:small_blue_diamond: On my way to be a fullstack developer :computer:
+:small_blue_diamond: Love programming in almost every language, If I don't know about it, I will learn! :computer:
 
 :small_blue_diamond: In Canada 🇧🇷 -> 🇨🇦
 
