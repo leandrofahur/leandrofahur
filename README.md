@@ -1,4 +1,4 @@
-# LEANDRO FAHUR :man_student:
+# LEANDRO MACHADO :man_student:
 [![LinkedIn][linkedin-brand]][linkedin-profile-url]
 [![Gmail][gmail-brand]][mailto-profile]
 [![Facebook][facebook-brand]][facebook-profile-url]
