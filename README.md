@@ -6,10 +6,10 @@
 <details>
   <summary>👨‍💻 ${\color{limen} A \space bit \space about \space me}$</summary>
   <br/>
-  <p align="left">Software Engineer 💻</p>
-  <p align="left">Fullstack Developer 🚀</p>
-  <p align="left">Team Work 👥 ∙ Innovation 🛸 ∙ Self-improvement 🎯</p>
-  <p align="left">🇧🇷⌁🇨🇦</p> 
+  <p align="left">&nbsp; &nbsp; ▫️ Software Engineer 💻</p>
+  <p align="left">&nbsp; &nbsp; ▫️ Fullstack Developer 🚀</p>
+  <p align="left">&nbsp; &nbsp; ▫️ Team Work 👥 ∙ Innovation 🛸 ∙ Self-improvement 🎯</p>
+  <p align="left">&nbsp; &nbsp; ▫️ 🇧🇷⌁🇨🇦</p> 
 </details>
 
 <br/>
