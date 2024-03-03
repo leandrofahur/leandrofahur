@@ -40,21 +40,38 @@
       <tr>
         <td>Frontend</th>
         <td>                              
-          <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-20232A?style=plastic&logo=react&logoColor=61DAFB22" alt="React"></a>          
+          <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-20232A?style=plastic&logo=react&logoColor=61DAFB22" alt="React"></a>
+          &nbsp;
           <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=61DAFB22" alt="Vue.js"></a>
-          <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=61DAFB22" alt="Angular"></a>          
+          &nbsp;
+          <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=61DAFB22" alt="Angular"></a>
         </td>
       </tr>
       <tr>
         <td>Backend</th>
         <td>          
-            <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF" >          
+            <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white" alt="Node.js"></a>
+            &nbsp;
+            <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"></a>
+            &nbsp;
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-C-A8B9CC?style=plastic&logo=c&logoColor=white" alt="C"></a>
+            &nbsp;
+            <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-239120?style=plastic&logo=c-sharp&logoColor=white" alt="C#"></a>
+            &nbsp;
+            <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+            &nbsp;
+            <a href="https://www.java.com/"><img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white" alt="Java"></a>
+            &nbsp;
+            <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-000000?style=plastic&logo=rust&logoColor=white" alt="Rust"></a>
         </td>
       </tr>
       <tr>
         <td>DevOps</th>
         <td>          
-            <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF" >          
+            <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" alt="Amazon AWS"></a>
+            <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud"></a>
+            <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker"></a>
+            <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
         </td>
       </tr>
     </tbody>
