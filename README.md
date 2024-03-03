@@ -40,9 +40,9 @@
       <tr>
         <td>Frontend</th>
         <td>                              
-          <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>          
-          <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"></a>
-          <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular"></a>          
+          <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-20232A?style=plastic&logo=react&logoColor=61DAFB22" alt="React"></a>          
+          <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=61DAFB22" alt="Vue.js"></a>
+          <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=61DAFB22" alt="Angular"></a>          
         </td>
       </tr>
       <tr>
