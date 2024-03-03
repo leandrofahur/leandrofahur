@@ -5,6 +5,9 @@
 <br/>
 <details>
   <summary>👨‍💻 ${\color{limen} A \space bit \space about \space me}$</summary>
+  <div>
+    <img src=""/>
+  </div>
 </details>
 
 <br/>
