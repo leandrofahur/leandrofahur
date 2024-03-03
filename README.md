@@ -6,11 +6,10 @@
 <details>
   <summary>👨‍💻 ${\color{limen} A \space bit \space about \space me}$</summary>
   <br/>
-    <img align="left" src="https://avatars.githubusercontent.com/u/46628080?v=4" alt="Leandro's GitHub profile picture" width=150 height=150 />    
-    <p >Software Engineer 💻</p>
-    <p>Fullstack Developer 🚀</p>
-    <p>Team Work 👥 ∙ Innovation 🛸 ∙ Self-improvement 🎯</p>
-    <p>🇧🇷⌁🇨🇦</p>  
+  <p align="left">Software Engineer 💻</p>
+  <p align="left">Fullstack Developer 🚀</p>
+  <p align="left">Team Work 👥 ∙ Innovation 🛸 ∙ Self-improvement 🎯</p>
+  <p align="left">🇧🇷⌁🇨🇦</p> 
 </details>
 
 <br/>
@@ -30,6 +29,34 @@
 
 <br/>
 <br/>
+
+${\color{limen}Currently \space based \space in \space Vancouver \space 🇨🇦}$
+  ```geojson
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 1,
+        "properties": {
+          "ID": 0
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-123.2240, 49.1980],
+              [-123.2240, 49.3150],
+              [-123.0230, 49.3150],
+              [-123.0230, 49.1980],
+              [-123.2240, 49.1980] 
+            ]
+          ]
+        }
+      }
+    ]
+  }
+  ```
 
 ${\color{limen} Like \space what \space you \space see??? \space 😍}$
 
