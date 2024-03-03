@@ -5,9 +5,12 @@
 <br/>
 <details>
   <summary>👨‍💻 ${\color{limen} A \space bit \space about \space me}$</summary>
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/46628080?v=4" alt="Leandro's GitHub profile picture" width=200 height=200 styles={{border-radius: "50%"}}/>
-  </div>
+  <br/>
+    <img align="left" src="https://avatars.githubusercontent.com/u/46628080?v=4" alt="Leandro's GitHub profile picture" width=150 height=150 />    
+    <p >Software Engineer 💻</p>
+    <p>Fullstack Developer 🚀</p>
+    <p>Team Work 👥 ∙ Innovation 🛸 ∙ Self-improvement 🎯</p>
+    <p>🇧🇷⌁🇨🇦</p>  
 </details>
 
 <br/>
