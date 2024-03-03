@@ -68,11 +68,20 @@
         </td>
       </tr>
       <tr>
+        <td>Mobile</th>
+        <td>          
+            <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/-Android-3DDC84?style=plastic&logo=android&logoColor=white" alt="Android"></a>
+        </td>
+      </tr>
+      <tr>
         <td>DevOps</th>
         <td>          
             <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" alt="Amazon AWS"></a>
+            &nbsp;
             <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud"></a>
+            &nbsp;
             <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker"></a>
+            &nbsp;
             <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
         </td>
       </tr>
