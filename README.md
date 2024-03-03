@@ -6,7 +6,7 @@
 <details>
   <summary>👨‍💻 ${\color{limen} A \space bit \space about \space me}$</summary>
   <div>
-    <img src=""/>
+    <img src="https://avatars.githubusercontent.com/u/46628080?v=4" alt="Leandro's GitHub profile picture" width=200 height=200 styles={{border-radius: "50%"}}/>
   </div>
 </details>
 
