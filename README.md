@@ -1,9 +1,14 @@
 # $${\color{limen} :video_game: \space \space Welcome \space Tech \space Adventures \space \space :space_invader:}$$
 <p align="center">
-  <a href="https://www.linkedin.com/in/leandro-miranda-fahur-machado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="https://www.instagram.com/stories/leandrofahur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://medium.com/@leandrofahur_" target="_blank"><img src="https://img.shields.io/badge/-Medium-333333?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium"></a>  
-  <a href="./assets/CV_Leandro_2024.pdf" target="_blank"><img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=Upload" alt="Resume"></a>
+  👉 &nbsp;
+  <a href="https://www.linkedin.com/in/leandro-miranda-fahur-machado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://www.instagram.com/stories/leandrofahur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  &nbsp;
+  <a href="https://medium.com/@leandrofahur_" target="_blank"><img src="https://img.shields.io/badge/-Medium-333333?style=plastic&logo=Medium&logoColor=white" alt="Medium"></a>
+  &nbsp;
+  <a href="./assets/CV_Leandro_2024.pdf" target="_blank"><img src="https://img.shields.io/badge/-%E2%AC%87%20Resume%20-97CA00?style=plastic&logo=Download&logoColor=white" alt="Download Resume"></a>
+  &nbsp;
 </p>
 
 ### :wave: ${Hellooooooo, \space I'm \space Leandro! \space}$ 🤖
@@ -19,7 +24,7 @@
 </details>
 
 <details>
-  <summary>🔭 I’m currently working  on...</summary> 
+  <summary>🔭 I’m currently working  on...</summary>  
 </details>
 
 <details>
