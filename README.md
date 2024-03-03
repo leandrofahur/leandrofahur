@@ -1,27 +1,25 @@
-# $${\color{limen} :video_game: \space Welcome \space Tech \space Adventures \space :space_invader:}$$ 
-[![linkedin-shield]][linkedin-url]  [![medium-shield]][medium-url]
+# $${\color{limen} :video_game: \space \space Welcome \space Tech \space Adventures \space \space :space_invader:}$$ 
 
-
-### :wave: Hellooooooo, I'm Leandro :robot:! 
+### :wave: ${Hellooooooo, \space I'm \space Leandro \space :robot:!}$
 
 <br/>
 <details>
-  <summary>👨‍💻 A bit about me</summary>
+  <summary>👨‍💻 ${\color{limen} A \space bit \space about \space me}$</summary>
 </details>
 
 <br/>
 <details>
-  <summary>🔭 I’m currently working on</summary>
+  <summary>🔭 ${\color{limen}I’m \space currently \space working \space on...}$</summary>
 </details>
 
 <br/>
 <details>
-  <summary>🌱 I’m currently learning</summary>
+  <summary>🌱 ${\color{limen}I’m \space currently \space learning}$</summary>
 </details>
 
 <br/>
 <details>
-  <summary>📫 How to reach me</summary>
+  <summary>📫 ${\color{limen}How \space to \space reach \space me?}$</summary>
 </details>
 
 
@@ -30,3 +28,7 @@
 [linkedin-url]: https://www.linkedin.com/in/leandro-miranda-fahur-machado/
 [medium-shield]: https://img.shields.io/badge/-Medium-333333?style=for-the-badge&logo=Medium&logoColor=white
 [medium-url]: https://medium.com/@leandrofahur_
+<!-- 
+  Usage example:
+  [![linkedin-shield]][linkedin-url]  [![medium-shield]][medium-url] 
+-->
