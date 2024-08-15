@@ -112,5 +112,5 @@ Like what you see 😍
 [![buy-me-a-coffe-button]][buy-me-a-coffe-url]
 
 [buy-me-a-coffe-button]: https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png
-[buy-me-a-coffe-url]: https://buymeacoffee.com/tech_adventurers
+[buy-me-a-coffe-url]: buymeacoffee.com/tech_adventurers
 
