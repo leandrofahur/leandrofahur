@@ -1,4 +1,4 @@
-# 🎮 Welcome to Tech Adventures 🐙
+# 🎮 Welcome to Tech Adventures 🐙⛵
 
 <div align="right">
   <a href="https://github.com/leandrofahur?tab=followers"><img src="https://img.shields.io/github/followers/leandrofahur?style=social" height="30"></a>
