@@ -11,6 +11,7 @@
 ### 🚀 A bit about me
 I'm a software developer, roboticist, and machine learning engineer based in beautiful Vancouver, Canada. I love exploring new technologies, working out, trying new foods, and playing with microcontrollers.
 
+<!--
 ### 📊 Most Used Tools
  <table>
     <thead>
@@ -68,6 +69,7 @@ I'm a software developer, roboticist, and machine learning engineer based in bea
       </tr>
     </tbody>
   </table>
+-->
   
 ### 🌐 How to reach me?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/leandro-miranda-fahur-machado/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="30"></a>
