@@ -16,7 +16,7 @@ I love exploring **clean code, scalable systems, and design patterns**, working 
 
 ### 🛠 Tech Stack  
 **Frontend:** React, Next.js, Vue.js.
-**Backend:** Node.js, Python (Django & Fast Api), Rust
+**Backend:** Node.js, Python (Django & Fast Api), Rust, Java
 **Mobile:** Android (Kotlin), React-native.
 **DevOps:** Docker, Kubernetes, AWS, GCP.
 **Databases:** PostgreSQL, MongoDB, Redis.  
