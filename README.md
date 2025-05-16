@@ -9,24 +9,25 @@
 ## 👋 Hey there! I'm Leandro 🐧  
 
 ### 🚀 About Me  
-I'm a **Software Developer | Roboticist | ML Engineer** based in **Vancouver, Canada**.  
-I love exploring **clean code, scalable systems, and design patterns**, working out, trying new foods, and experimenting with **microcontrollers**.  
+I'm a **Solution Architect | Software & ML Engineer** learning **Cybersecurity** based in **Vancouver, Canada**.  
+I love exploring **technologies from software to hardware**, working out, trying new foods, ...  
 
 ---
 
 ### 🛠 Tech Stack  
-**Frontend:** React, Next.js, Vue.js.
-**Backend:** Node.js, Python (Django & Fast Api), Rust, Java
-**Mobile:** Android (Kotlin), React-native.
+**Frontend:** React, Vue, Angular.
+**Backend:** Node, Python, Rust, Java, C#.
+**Mobile:** Android, React-native.
 **DevOps:** Docker, Kubernetes, AWS, GCP.
-**Databases:** PostgreSQL, MongoDB, Redis.  
+**Databases:** SQL & NoSQL (PostgreSQL, MongoDB), and Redis.  
 
 ---
 
 ### 🌍 Connect with Me  
 📧 [Email](mailto:leandrofahur@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/leandro-miranda-fahur-machado/)  
-📝 [Medium](https://medium.com/@tech-adventurer)  
+📝 [Tech Adventurer Medium](https://medium.com/@tech-adventurer)  
+📝 [AI Bit-by-Bit Medium](https://medium.com/@ai-bit-by-bit)  
 🇨🇦 Vancouver based
   ```geojson
   {
