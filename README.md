@@ -26,7 +26,7 @@ I love exploring **technologies from software to hardware**, working out, trying
 ### 🌍 Connect with Me  
 📧 [Email](mailto:leandrofahur@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/leandro-miranda-fahur-machado/)  
-📝 [Tech Adventurer Medium](https://medium.com/@tech-adventurer)  
+📝 [Bitwise Insights (former Tech Adventurer) Medium](https://medium.com/@bitwise_insights)  
 📝 [AI Bit-by-Bit Medium](https://medium.com/@ai-bit-by-bit)  
 🇨🇦 Vancouver based
   ```geojson
