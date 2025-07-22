@@ -12,6 +12,9 @@
 I'm a **Solution Architect | Software & ML Engineer** learning **Cybersecurity** based in **Vancouver, Canada**.  
 I love exploring **technologies from software to hardware**, working out, trying new foods, ...  
 
+👉 This is my alter ego GitHub [account](https://github.com/programmingadev)
+Where I will be putting most of my effort from now on!
+
 ---
 
 ### 🛠 Tech Stack  
